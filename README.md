@@ -18,5 +18,5 @@ The purpose of the analysis of this dataset is to build a model to predict occup
 - ``Random Forest Time Series.py `` :   Python file with classifcation class utilised in index.ipynb
 - ``READMEmd  ``         :   Markdown file with executive summay of project
 - ``dataset.csv  ``      :   CSV file with data used for project
-- ``Time Series Documentation.py  ``      :   Document for the code implemented
+- ``TimeSeries Documentation.py  ``      :   Document for the code implemented
 - ``index.ipynb   ``     :   Python Notebook containing main conent for project (code,visualisations,modelling,evaluation)
